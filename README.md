@@ -1,38 +1,45 @@
 # Todo List
+An application built using HTML, CSS and JavaScript that provides a simple and intuitive interface to manage daily tasks.
+The application offers the following key features:
 
-A simple todo list application built using HTML, CSS and JavaScript.
 
 ## Features
-- Add todo items with ease
-- Mark items as completed to keep track of your progress
-- Remove completed items to keep your list clean and organized
+- Task creation: Enables users to easily add new tasks to the list
+- Task tracking: Allows users to mark tasks as complete, which helps to keep track of their progress
+- Task organization: Enables users to remove completed tasks, thereby keeping their list clean and organized
 
 ## Getting Started
+To get started with the Todo List application, you need to follow these steps:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. Prerequisites: A web browser is the only requirement to run the application.
+2. Clone the repository: Clone the Todo List repository to your local machine using the command line.
+  ###### Installing
+  ```ruby
+  $ git clone https://github.com/yashasewi/todo-list.git
+  ```
+  
+3. Run the application: Open `index.html` in a web browser to launch the application.
 
 ### Prerequisites
 
 A web browser is all that is required to run this application.
 
-### Installing
-
-Clone the repository to your local machine.
-```ruby
-$ git clone https://github.com/yashasewi/todo-list.git
-```
 
 
 Open `index.html` in a web browser.
 
-## Built With
-- HTML
-- CSS
-- JavaScript
+
+### Technical Details
+
+The Todo List application is built using the following technologies:
+
+- HTML: Used for creating the structure of the application
+- CSS: Used for styling the application
+- JavaScript: Used for adding interactivity to the application
+
 
 ## Contributing
-
-Feel free to submit a pull request with any improvements or additions.
+You are welcome to contribute to the Todo List project by submitting pull requests with any improvements or additions.
 
 ## Authors
 - [@yashasewi](https://github.com/yashasewi)
